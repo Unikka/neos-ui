@@ -21,7 +21,7 @@
   "dependencies": {
     "@neos-project/neos-ui-backend-connector": "2.9.2",
     "@neos-project/neos-ui-decorators": "2.9.2",
-    "@neos-project/neos-ui-extensibility": "2.9.2",
+    "@neos-project/neos-ui-extensibility": "8.2.0",
     "@neos-project/neos-ui-guest-frame": "2.9.2",
     "@neos-project/neos-ui-i18n": "2.9.2",
     "@neos-project/neos-ui-redux-store": "2.9.2",
