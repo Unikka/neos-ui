@@ -19,7 +19,7 @@
     "@neos-project/jest-preset-neos-ui": "2.9.2"
   },
   "dependencies": {
-    "@neos-project/neos-ui-extensibility": "2.9.2",
+    "@neos-project/neos-ui-extensibility": "8.2.0",
     "@neos-project/utils-redux": "2.9.2"
   },
   "license": "GNU GPLv3",
