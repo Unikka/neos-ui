@@ -16,8 +16,8 @@
     "@neos-project/jest-preset-neos-ui": "2.9.2"
   },
   "dependencies": {
-    "@neos-project/build-essentials": "2.9.2",
-    "@neos-project/neos-ui-extensibility": "2.9.2",
+    "@neos-project/build-essentials": "3.0.0",
+    "@neos-project/neos-ui-extensibility": "8.2.0",
     "@neos-project/neos-ui-i18n": "2.9.2",
     "@neos-project/utils-logger": "2.9.2"
   },
